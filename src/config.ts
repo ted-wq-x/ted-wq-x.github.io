@@ -2,8 +2,8 @@ export const SITE = {
   website: "https://ted-wq-x.github.io", // replace this with your deployed domain
   author: "Wang Qiang",
   profile: "https://about.me/qiang-wang",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  desc: "倒霉熊的博客",
+  title: "Backkom's blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -12,9 +12,9 @@ export const SITE = {
   showArchives: true,
   showBackButton: true, // show back button in post detail
   editPost: {
-    enabled: true,
-    text: "Edit page",
-    url: "https://github.com/ted-wq-x/ted-wq-x.github.io/edit/main/",
+    enabled: false,
+    text: "Suggest Changes",
+    url: "https://github.com/satnaing/astro-paper/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
