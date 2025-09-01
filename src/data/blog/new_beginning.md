@@ -3,7 +3,7 @@ title: A new Beginning
 description: 简单总结
 pubDatetime: 2025-09-01T17:23:00.737Z
 author: WQ
-ogImage: ../../assets/images/2025-09-01.JPG
+ogImage: ../../assets/images/2025-09-01.jpg
 tags:
     - Life
 ---
